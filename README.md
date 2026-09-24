@@ -1,0 +1,2 @@
+# NexOfficialAuthenticationServer
+NEX服务器的正版绑定服务端
